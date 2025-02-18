@@ -1,4 +1,4 @@
-const allowedDomain = 'growwsociallps.github.io/Maintenance';
+const allowedDomain = 'growwsociallps.github.io';
 
     // Function to dynamically insert and show the popup
     function showPopup() {
